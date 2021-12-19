@@ -310,7 +310,9 @@ a {
     width: calc(33.3333333333% - 10px);
     margin: 0 auto;
   }
-
+  body {
+    font-size:auto;
+  }
   body header {
     padding-bottom: 50px;
   }
